@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# CSV files generated while writing the code
+course-one-apis/*.csv
+
+# JSON files to ignore
+course-one-apis/my_linkedin_connections.json
+
+# Checkpoint files for iPython Notebook
+course-one-apis/.ipynb_checkpoints/*

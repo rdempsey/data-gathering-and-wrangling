@@ -1,0 +1,58 @@
+{
+  "created_at": "Thu Apr 12 03:24:51 +0000 2007",
+  "description": "Technology Strategist, Agile PM, Hacker of Things, Data Geek, Spartan",
+  "favourites_count": 399,
+  "followers_count": 14710,
+  "friends_count": 8505,
+  "geo_enabled": true,
+  "id": 4291171,
+  "lang": "en",
+  "listed_count": 615,
+  "location": "McLean, VA",
+  "name": "Robert Dempsey",
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+  "profile_background_tile": false,
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/4291171/1377134356",
+  "profile_image_url": "https://pbs.twimg.com/profile_images/562967147500929024/lVE-NJJQ_normal.png",
+  "profile_link_color": "FA743E",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "protected": false,
+  "screen_name": "rdempsey",
+  "status": {
+    "created_at": "Tue Apr 14 16:42:45 +0000 2015",
+    "favorite_count": 3,
+    "favorited": false,
+    "hashtags": [
+      "DataScience",
+      "Python"
+    ],
+    "id": 588019571384311808,
+    "lang": "en",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "text": "RT @tonyojeda3: New Workshop: Data Acquisition &amp;Wrangling with Python on 5/9 with @rdempsey! http://t.co/qtGzpBIKsM #DataScience #Python",
+    "truncated": false,
+    "urls": {
+      "http://t.co/qtGzpBIKsM": "http://buff.ly/1HIY5Ep"
+    },
+    "user_mentions": [
+      {
+        "id": 45048508,
+        "name": "Tony Ojeda",
+        "screen_name": "tonyojeda3"
+      },
+      {
+        "id": 4291171,
+        "name": "Robert Dempsey",
+        "screen_name": "rdempsey"
+      }
+    ]
+  },
+  "statuses_count": 32799,
+  "time_zone": "Eastern Time (US & Canada)",
+  "url": "http://t.co/989Aby3yY3",
+  "utc_offset": -14400
+}

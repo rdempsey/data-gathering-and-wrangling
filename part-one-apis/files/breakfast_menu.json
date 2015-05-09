@@ -1,0 +1,18 @@
+{ 
+  "breakfast_menu": {
+    "items": [
+      {
+        "name": "Belgian Waffles",
+        "price": "5.95",
+        "description": "Two of our famous Belgian Waffles with plenty of real maple syrup",
+        "calories": "650"
+      },
+      {
+        "name": "Strawberry Belgian Waffles",
+        "price": "7.95",
+        "description": "Light Belgian waffles covered with strawberries and whipped cream",
+        "calories": "900"
+      }
+    ]
+  }
+}
